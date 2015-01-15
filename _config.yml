@@ -1,8 +1,0 @@
-name: ArgumentException
-url: http://blog.sdellaportas.com
-description:   I am Spiros Dellaportas, a Software Craftsman living in London and this is my personal blog.
-permalink: /:year/:month/:day/:title/
-paginate: 15
-pygments: true
-
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
